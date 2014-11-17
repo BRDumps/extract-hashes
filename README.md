@@ -5,7 +5,7 @@ The script reads a file and tries to extract hashes from it by using regex.
 Results are stored in separate files named as 'format-original_filename.txt'.
 Supported formats and regex can be found in the 'regex_list' dictionary.
 
-** WARNING: Use carefully. It might return garbage or miss some hashes. **
+**WARNING: Use carefully. It might return garbage or miss some hashes.**
 
 Usage: `extract-hash.py <filename>`
 
